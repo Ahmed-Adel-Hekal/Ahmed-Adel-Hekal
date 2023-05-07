@@ -8,7 +8,7 @@ I work as a Machine Learning Developer at ForteCloud, where I specialize in deve
 - Exploring the use of transfer learning to improve performance on image classification tasks
 - Analyzing and visualizing data from a large-scale sensor network to identify trends and anomalies
 
-## Certification 
+## 🔭 Certification 
 - ** AWS Certified Data Analytics - Specialty **
 
 ## 🌱 Skills
