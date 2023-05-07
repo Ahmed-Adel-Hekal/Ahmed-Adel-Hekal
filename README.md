@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi there, I'm **Ahmed Hekal** 👋
 
-<!--
-**Ahmed-Adel-Hekal/Ahmed-Adel-Hekal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work as a Machine Learning Developer at ForteCloud, where I specialize in developing deep learning models for a variety of applications. My primary programming languages are Python and C, and I have a strong background in data analytics.
 
-Here are some ideas to get you started:
+## 🔭 Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Developing a state-of-the-art object detection model for a retail customer
+- Exploring the use of transfer learning to improve performance on image classification tasks
+- Analyzing and visualizing data from a large-scale sensor network to identify trends and anomalies
+
+## Certification 
+- ** AWS Certified Data Analytics - Specialty **
+
+## 🌱 Skills
+
+- **Programming languages:** Python, C
+- **Machine Learning:** TensorFlow, Scikit-learn, Keras
+- **Data Analytics:** Pandas, NumPy, Matplotlib, Seaborn
+- **Other:** Git, Linux, AWS, Docker
+
+## 👯‍♀️ Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/ahmed-adel-hekal/)
+- [GitHub](https://github.com/Ahmed-Adel-Hekal/Ahmed-Adel-Hekal/)
+
+Feel free to reach out to me if you want to discuss any projects or collaborations!
