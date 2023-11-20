@@ -1,26 +1,49 @@
-# Hi there, I'm **Ahmed Hekal** 👋
+# Ahmed Hekal - Embedded Systems Engineer 🚀
 
-I work as a Machine Learning Developer at ForteCloud, where I specialize in developing deep learning models for a variety of applications. My primary programming languages are Python and C, and I have a strong background in data analytics.
+**Email:** ahmedadelhekal@gmail.com  
+**Phone:** +2 01151277609
 
-## 🔭 Current Projects
+Hey there! 👋 I'm Ahmed, a highly motivated Embedded Systems Engineer with a passion for developing and optimizing embedded systems. I'm on the lookout for a challenging position in a dynamic company to bring my expertise in Linux-based development to cutting-edge projects.
 
-- Developing a state-of-the-art object detection model for a retail customer
-- Exploring the use of transfer learning to improve performance on image classification tasks
-- Analyzing and visualizing data from a large-scale sensor network to identify trends and anomalies
+## Education
+**Communication Engineering**  
+Cairo High Institute, Ahmed Hekal - Egypt, Cairo  
+- 🎓 Degree: GOOD  
+- 🚁 Graduation Project: Quadcopter  
+- 🏆 Graduation Degree: Excellent
 
-## 🔭 Certification 
-- ** AWS Certified Data Analytics - Specialty **
+## Work Experience
 
-## 🌱 Skills
+### Embedded Systems Instructor  
+AMIT  
+*2023-07 to Current*  
+- Conducted awesome courses covering:
+  - Microcontroller Interfacing
+  - Real-Time Operating Systems (RTOS) Basics
+  - Basics of CAN & LIN working Principal
 
-- **Programming languages:** Python, C
-- **Machine Learning:** TensorFlow, Scikit-learn, Keras
-- **Data Analytics:** Pandas, NumPy, Matplotlib, Seaborn
-- **Other:** Git, Linux, AWS, Docker
+### Research Assistant  
+Ain Shams University  
+*October 2018 to January 2020*  
+- Developed cool stuff like a local server and UI for controlling motors using K-nearest neighbors (K-NN) algorithm, with data from embedded sensors.
+- Created a sensor interface with Atmega32, connecting it to Raspberry Pi using MQTT.
 
-## 👯‍♀️ Let's Connect!
+### Instructor  
+Information Technology Institute, ITI  
+- Spiced up lessons on Arduino, Electronics, and problem-solving concepts.
 
-- [LinkedIn](https://www.linkedin.com/in/ahmed-adel-hekal/)
-- [GitHub](https://github.com/Ahmed-Adel-Hekal/Ahmed-Adel-Hekal/)
+## Certifications
+- 🧠 Deep Learning Nanodegree at Udacity - June 2019
+- 📊 Advanced Data Analysis at Udacity - 2021
+- 💻 Embedded System Course at IMT_SCHOOL - July 2015
+- 🎓 Embedded Systems Diploma at AMIT_Learning - June 2014
 
-Feel free to reach out to me if you want to discuss any projects or collaborations!
+## Projects
+
+- **Aquaponic System:** Utilized Raspberry Pi as a local server and Atmega32, implementing the MQTT protocol for data transfer.
+- **Glove for the Deaf:** Integrated an AVR microcontroller, flexible sensors, and an LCD to facilitate communication for the hearing-impaired.
+- **Traffic Light System:** Developed an efficient traffic light control mechanism using AVR microcontrollers and timer modules.
+- **IoT-Based Infant Incubator:** Designed a sophisticated system with the AVR ATmega32, sensors, digital display, and Raspberry Pi kit for monitoring and regulating environmental conditions in infant incubators.
+- **Digital Clock:** Implemented an AVR ATmega32 microcontroller and seven-segment display for an accurate digital timekeeping device.
+- **Maze-Solving Robot:** Utilized the AVR ATmega16 microcontroller, ultrasonic sensors, and motor drivers to create an autonomous robot capable of solving complex mazes.
+- **Bluetooth-Controlled Car Robot:** Integrated AVR microcontrollers, Bluetooth (using External Library), and motor drivers, and developed an Android application for wireless control.
